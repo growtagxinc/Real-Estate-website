@@ -69,7 +69,7 @@ const Hero = () => {
             }}
             className="image-container"
           >
-            <img src="https://elementreedrafting.com.au/wp-content/uploads/2015/05/What-makes-a-home-a-Luxury-Home.jpg" alt="houses" />
+            <img src="public/demoimg.jpeg" alt="houses" />
           </motion.div>
         </div>
       </div>
