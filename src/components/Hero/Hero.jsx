@@ -69,7 +69,7 @@ const Hero = () => {
             }}
             className="image-container"
           >
-            <img src="./hero-image.png" alt="houses" />
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Felementreedrafting.com.au%2Fwhat-makes-a-home-a-luxury-home%2F&psig=AOvVaw2yh74xiBRmbNyAnIYMYgVT&ust=1704440350808000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJDSv6Kdw4MDFQAAAAAdAAAAABAE" alt="houses" />
           </motion.div>
         </div>
       </div>
